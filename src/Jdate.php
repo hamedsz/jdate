@@ -1,14 +1,4 @@
-<?php /* In the name of Allah = بسم اللّه الرّحمن الرّحیم */
-
-/**
- * @فارسی : توابع زمان و تاریخ هجری شمسی (جلالی) در پی اچ پی
- * @name: Hijri_Shamsi,Solar(Jalali) Date and Time Functions
- * @Author : Reza Gholampanahi & WebSite : http://jdf.scr.ir
- * @License: GNU/LGPL _ Open Source & Free : [all functions]
- * @Version: 2.75 =>[ 1399/03/18 = 1441/10/15 = 2020/06/07 ]
- */
-
-/*	F	*/
+<?php 
 
 namespace hamedsz\jdate;
 
